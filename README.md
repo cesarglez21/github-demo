@@ -18,4 +18,4 @@ Information
 
 ## Contact
 
-Contacto
+Please contact me friend
