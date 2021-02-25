@@ -16,8 +16,6 @@ Information
 
 ##Copyrigth 
 
-This is a copyrigth notice
-
 ## Contact
 
 No me contactes
