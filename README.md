@@ -14,6 +14,7 @@ A porpose for the project
 
 Information
 
+##Copyrigth 
 
 ## Contact
 
